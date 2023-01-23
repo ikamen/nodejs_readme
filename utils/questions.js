@@ -38,12 +38,12 @@ const questions = [
         message: 'Provide examples on how to run tests for your application'
     },
     {
-        name: 'githubrepo',
-        message: 'Project GitHub repository URL'
+        name: 'githubusername',
+        message: 'What is your GitHub username?'
     },
     {
         name: 'email',
-        message: 'Your email address'
+        message: 'What is your email address?'
     }
   ];
 

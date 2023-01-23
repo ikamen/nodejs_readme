@@ -1,9 +1,9 @@
-# title
+# d
     
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
 ## Description
-desc
+d
   
 ## Table of Contents
 - [Installation](#installation)
@@ -14,20 +14,20 @@ desc
 - [Questions](#questions)
 
 ## Installation
-asdasdas
+d
 
 ## Usage
-asfasdfas
+d
 
 ## License
-Licensed under the MIT License
+Licensed under the GNU GPL 3.0
   
 ## Contributing
-asdfadsfas
+d
   
 ## Tests
-sadfadsfas
+d
   
 ## Questions
-GitHub repository link: [asdfa](asdfa) 
-For any questions please email [asdfas](mailto:asdfas)
+My GitHub profile: [https://github.com/ikamen](https://github.com/ikamen)    
+For any questions please email [d@d.c](mailto:d@d.c)

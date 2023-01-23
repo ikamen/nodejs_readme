@@ -3,6 +3,7 @@ function generateMarkdown(data) {
   
     var license = "";
     var badge = "";
+    var ghProfilePage = "https://github.com/" + data.githubusername;
   
     switch (data.license) {
       case 1:
@@ -50,7 +51,7 @@ ${data.contributing}
 ${data.tests}
   
 ## Questions
-GitHub repository link: [${data.githubrepo}](${data.githubrepo}) 
+My GitHub profile: [${ghProfilePage}](${ghProfilePage})    
 For any questions please email [${data.email}](mailto:${data.email})
 `;
   }
