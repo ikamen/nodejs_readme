@@ -1,9 +1,9 @@
-# d
+# Readme file generator
     
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
     
 ## Description
-d
+A NodeJS application that generates a readme file from user input using markdown language
   
 ## Table of Contents
 - [Installation](#installation)
@@ -14,20 +14,20 @@ d
 - [Questions](#questions)
 
 ## Installation
-d
+Pull code from the GitHub repository found in my GitHub profile below
 
 ## Usage
-d
+Run the index.js file
 
 ## License
-Licensed under the GNU GPL 3.0
+Licensed under the MIT License
   
 ## Contributing
-d
+Special thanks to my family and friends
   
 ## Tests
-d
+There is only one way to use the application as explained in the [Usage](#usage) section
   
 ## Questions
 My GitHub profile: [https://github.com/ikamen](https://github.com/ikamen)    
-For any questions please email [d@d.c](mailto:d@d.c)
+For any questions please email [kamen@kamen.com](mailto:kamen@kamen.com)
